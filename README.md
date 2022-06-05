@@ -1,1 +1,2 @@
-# portfolio
+#studying html             
+basic  html  and css 
